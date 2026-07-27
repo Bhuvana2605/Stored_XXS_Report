@@ -60,31 +60,19 @@ In this lab, a vulnerable DVWA application was configured on a virtual machine. 
 
 ### DVWA Home
 
-> Replace with your screenshot.
 
-![DVWA Home](screenshots/home.png)
-
----
-
-### Stored XSS Page
-
-> Replace with your screenshot.
-
-![Stored XSS](screenshots/stored-xss.png)
+![DVWA Home](screenshots/step2.png)
 
 ---
+
 
 ### Payload Injection
 
-> Replace with your screenshot.
-
-![Payload Injection](screenshots/payload.png)
+![Payload Injection](screenshots/attack.png)
 
 ---
 
 ### Successful Execution
-
-> Replace with your screenshot.
 
 ![Attack Result](screenshots/result.png)
 
